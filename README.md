@@ -40,3 +40,12 @@ Requirement upload on www.your-website.TLD/*
 + [PHP + Nginx](https://github.com/alexonbstudio/wp-api/releases/download/1.0/php-nginx.zip) (your-website.tld/*)
 + [PHP + CaddyServer v2](https://github.com/alexonbstudio/wp-api/releases/download/1.0/php-caddyserver2.zip) (your-website.tld/*)
 + [Api/.json](https://github.com/alexonbstudio/wp-api/releases/download/1.0/api-json.zip) (your-website.tld/api/)
+
+### Remote API Debug Anywhere
+
+See the [Readme.md here](remote/readme.md)
+
+#### Be simple and is simple
+
+Project Pool*² by AlexonbStudio
+
