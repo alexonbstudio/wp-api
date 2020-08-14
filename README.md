@@ -1,7 +1,7 @@
 # wp-api
  Be presents to differents Pool*² on website @alexonbstudio
 
-## Info (in 5 solution) - Short abd easier
+## Info (in 5 solution) - Short & easy
 
 1) No api key to take on our server
 2) Not need upload your logo on our futur website
