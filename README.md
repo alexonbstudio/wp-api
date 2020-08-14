@@ -27,12 +27,12 @@ Your website si using CSP for block images content please autorisate shown on th
 
 img-src 'please waitting, website is under construction'
 
-### Tehcnilogie Developement
+### Technologie Developement
 
 + PHP with (Apache/Nginx/CaddyServer)
 + only Json files require folder with api/
 
-### Download & Edit & Upload on your server
+### Download, Edit & Upload on your server
 
 Requirement upload on www.your-website.TLD/*
 
