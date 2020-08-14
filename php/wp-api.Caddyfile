@@ -1,0 +1,8 @@
+#Preparing Caddyfile * caddyserver v2
+#Api to present on differente pool pages - site internet en cours de développement
+
+
+rewrite wp-api.php?api=business api/business.json
+rewrite wp-api.php?api=images api/images.json
+rewrite wp-api.php?api=private api/private.json
+rewrite wp-api.php?api=sites api/sites.json
