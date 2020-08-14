@@ -4,14 +4,14 @@
 ## Info (in 5 solution) - Short abd easier
 
 1) No api key to take on our server
-2) Not need upload your logo on your futur website
+2) Not need upload your logo on our futur website
 3) No databasse requirement
 4) Easy for novice level 
 5) Get data only on your website from your serveur
 
 ## Documents
 
-Access to our [documents](docs/), build laters.
+Access to our [documents](docs/), build laters available soon in french and in english.
 
 ### Notice
 
