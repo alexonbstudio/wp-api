@@ -5,9 +5,10 @@
 	
 ### 3 Files require:
 
-+ business.json #if you're escorte girl, escorte boy, hacker, etc... not reuire that files
-+ sites.json # make your pricing on "tarifs" example yearly, monthly, hourly, etc... AS the services.
-+ images.json
++ business.json = REQUIRE #if you're escorte girl, escorte boy, hacker, etc... not reuire that files
++ sites.json = REQUIRE # make your pricing on "tarifs" example yearly, monthly, hourly, etc... AS the services.
++ images.json = REQUIRE 
+- social.json (optional) # want shared your Social media/ social networks not require
 - private.json (Optional) #if you're escorte girl, escorte boy, hacker, etc...
 
 
