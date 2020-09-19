@@ -5,10 +5,10 @@
 	
 ### 3 Files require:
 
-+ business.json
-+ sites.json
++ business.json #if you're escorte girl, escorte boy, hacker, etc... not reuire that files
++ sites.json # make your pricing on "tarifs" example yearly, monthly, hourly, etc... AS the services.
 + images.json
-- private.json (Optional)
+- private.json (Optional) #if you're escorte girl, escorte boy, hacker, etc...
 
 
 ### excatly URL & where to make it

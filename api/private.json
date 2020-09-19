@@ -24,7 +24,7 @@
 	"mail":{
 		"public":"contact",
 		"private":"pseudo-ou-nom",
-		"@":{
+		"@":{	
 			"external":"other.tld"
 		}
 	}
