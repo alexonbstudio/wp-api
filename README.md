@@ -9,6 +9,13 @@
 4) Easy for novice level 
 5) Get data only on your website from your serveur
 
+## requirement
+
+read the documentation on https://alexonbstudio.yo.fr/documentation
+
++ Basic for free with ads post
++ Buiness Not free GET DATA Custom post
+
 ## Documents
 
 Access to our [documents](docs/), build laters available soon in french and in english.
@@ -30,7 +37,7 @@ img-src 'please waitting, website is under construction'
 ### Technologie Developement
 
 + PHP with (Apache/Nginx/CaddyServer)
-+ only Json files require folder with api/
++ only Json files require folder with & after folder to api/ [read the notice]
 
 ### Download, Edit & Upload on your server
 
