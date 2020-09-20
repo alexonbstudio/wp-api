@@ -12,8 +12,8 @@ $images = array(
 			'black-and-white' => 'themes/alexonbstudio-logo-v2-normal-black-and-white.svg'/*Indicate where is place is after this folder "dir" [your-site.TLD/assets/images]*/
 		),
 		'project' => array(
-			'slide' => array(
-				'1' => 'general/project/deejays.png',
+			'slide' => array( #present slide image
+				'1' => 'general/project/deejays.png', #where imag after dir
 				'2' => 'general/project/gaming.png',
 				'3' => 'general/project/informatique.png',
 				'4' => 'general/project/streaming.png'

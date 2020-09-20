@@ -36,7 +36,7 @@ if(isset($_GET['api'])){
 	} else if($_GET['api'] == 'sites'){
 		header('Content-type: application/json;; charset=utf-8');
 		include_once(DIR.DS.'data'.DS.'sites.php');
-	}else if($_GET['api'] == 'private'){
+	} else if($_GET['api'] == 'private'){
 		header('Content-type: application/json;; charset=utf-8');
 		include_once(DIR.DS.'data'.DS.'private.php');
 	} else {
