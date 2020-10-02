@@ -19,7 +19,7 @@ $domain = 'alexonbstudio.yo.fr';
 #Decode
 $sites = json_decode(file_get_contents('https://'.$domain .'/api/sites.json'), true);
 $private = json_decode(file_get_contents('https://'.$domain .'/api/private.json'), true);
-$images = json_decode(file_get_contents('https://'.$domain .'/api/business.json'), true);
+$images = json_decode(file_get_contents('https://'.$domain .'/api/images.json'), true);
 $business = json_decode(file_get_contents('https://'.$domain .'/api/business.json'), true);
 
 if(isset($_GET['api'])){
